@@ -1,14 +1,117 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
-  </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validación Tarjeta</title>
+    
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="style">
+
+</head>
+<body>
+    <br><br>
+    <!-- Este header contiene el logo y el nombre que se mantiene para todas las secciones--> 
+    <header>
+        <img src="Imagenes/AF_Logo_Artlue.png" width="350px">
+    </header><br><br><br>
+
+    <!-- Inicio de la primera ventana-->
+    <section id="ventana1" class="contenedor1">
+        <header><p><strong>Visita los diferentes museos del mundo, desde la comodidad de tu casa</strong></p>
+        </header><br><br><br><br><br><br>
+        <main>
+            <input id="botonIngresar" class= "boton_ingresar" type="button" value="INGRESAR">
+        </main><br><br><br><br><br><br><br><br>
+        <footer>
+                Copyright 2020 &copy; ;
+                Todos los derechos reservados ;<br>
+                Marcela González &amp; Paula Lenis 
+        </footer><br><br>
+    </section><!-- Final de la primera ventana-->
+   
+    <!-- Inicio de la segunda ventana-->
+    <section id="ventana2" class="contenedor2">
+        <header><p><strong>¿Cuál museo te gustaría visitar?</strong></p>
+        </header><br>
+        <main>
+            <table>
+                <tr>
+                    <td><a href="https://www.khm.at/informacion-para-visitantes/" target = "_blank">
+                        <img src="Imagenes/museo-de-Historia-del-Arte-de-Viena.png" class="galeria_imagen"/></a></td>
+                    <td><div class="texto"><strong>Museo de Historia del Arte de Viena</strong></div><br>
+                        <div class="texto2">El fastuoso Museo de Historia del Arte de Viena (Italia).
+                        Ubicado en uno de los extremos de la plaza dedicada a Maria Teresa,
+                        fue uno de los primeros museos de bellas artes y artes decorativas del mundo.<br><br>
+                        
+                        <span><strong>Costo de la visita: $50.000</strong></span><br><br>
+                        <input id= "botonInicioCompra" class= "boton_comprar" type="button" value="COMPRAR">
+                        </div>
+                    </td>
+                </tr>              
+            </table><br><br><br><br>
+        
+            <table>
+                <tr>
+                    <td><a href="https://www.louvre.fr/en" target = "_blank">
+                        <img src="Imagenes/museo-de-Louvre.png" class="galeria_imagen"/></a></td>
+                    <td><div class="texto"><strong>Museo de Louvre</strong></div><br>
+                        <div class="texto2">El Museo del Louvre ubicado en  Francia,
+                        esta dedicado al arte anterior, al impresionismo,
+                        tanto bellas artes como arqueología y artes decorativas. 
+                        Es uno de los más importantes del mundo.<br><br>
+
+                        <span><strong>Costo de la visita: $50.000</strong></span><br><br>
+                        <input id= "botonInicioCompra1" class= "boton_comprar" type="button" value="COMPRAR">
+                        </div>
+                    </td>
+                </tr>
+            </table><br><br><br><br>
+
+            <table>
+                <tr>
+                    <td><a href="https://www.guggenheim-bilbao.eus/" target = "_blank">
+                        <img src="Imagenes/museo-Guggenheim.png" class="galeria_imagen"/></a></td>
+                    <td><div class="texto"><strong>Museo de Louvre</strong></div><br>
+                        <div class="texto2">El Museo Guggenheim Bilbao,
+                        es un museo de arte contemporáneo, el cual fue diseñado
+                        por el arquitecto canadiense Frank O. Gehry.
+                        Se localiza en la villa de Bilbao en España.<br><br>
+                        
+                        <span><strong>Costo de la visita: $50.000</strong></span><br><br>
+                        <input id= "botonInicioCompra2" class= "boton_comprar" type="button" value="COMPRAR">
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </main><br><br><br><br>
+        <footer>
+            Copyright 2020 &copy; ;
+            Todos los derechos reservados ;<br>
+            Marcela González &amp; Paula Lenis 
+        </footer><br><br>
+    </section><!-- Final de la segunda ventana-->
+
+    <!-- Inicio de la tercera ventana-->
+    <section id="ventana3" class="contenedor3"><br>
+        <header class="texto4"><strong> Método de pago </strong> <br>
+            <span>Tarjeta de Crédito</span><br><br><br>
+        </header> 
+        <main>
+            <img src= "Imagenes/tarjeta de credito.jpg" width="175" height="125"><br><br>
+            <p class="texto3">Nombre completo:</p>
+            <input type="text" name="nombre" required>
+            <p class="texto3">Número de tarjeta:</p>
+            <input id="tarjeta" type="text" placeholder="###" name="card" maxlength="18" required><br><br>
+            <input id="botonEjecutarCompra" class="boton_comprar" type="button" value="COMPRAR"> 
+        </main><br><br><br><br><br><br>
+        <footer>
+            Copyright 2020 &copy; ;
+            Todos los derechos reservados ;<br>
+            Marcela González &amp; Paula Lenis 
+        </footer><br><br>
+    </section><!-- Final de la tercera ventana-->
+
+<script type="module" src="index.js"></script>
+</body>
 </html>

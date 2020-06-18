@@ -1,0 +1,153 @@
+body {
+    background:url("Imagenes/AF_bg_Artlue.png");
+    background-size: cover;
+    font-family: 'Roboto';
+    font-size: 10px;
+    text-align:center;
+}
+#ventana2, #ventana3, #ventana4 {
+    display: none;
+}
+
+.contenedor1{
+    height: 325px;
+    width: 425px;
+    margin: 15px auto;
+    display: inline-block;     
+}
+
+.contenedor2{
+    height: 325px;
+    width: 425px;
+    margin: 15px auto;
+    display: table-cell;/*display: table-cell;para alinear en el centro el contenedor y se combina con display:inline-block del anidado*/ 
+}
+.contenedor3{
+    height: 450px;
+    width: 300px;
+    margin: 15px auto;
+    background-color:white;
+    display: inline-block;
+    border : solid 3px black;
+    padding: 3px;
+}
+
+.texto{ /* Se elimino font-family: Arial */
+    color: black;
+    font-size: 13px;
+    text-align: center;
+}
+.texto2{ /* Se elimino font-family: Arial */
+    color: black;
+    font-size: 13px;
+    text-align: center;
+}
+
+.texto3{ /* Se agrego text3 de la ventana 3 */
+    color: black;
+    font-size: 13px;
+    text-align: center;
+}
+
+.texto4 { /* Se agrego text4 de la ventana 3 */
+    color:red;
+    font-size: 20px;
+    text-align: center;
+}
+
+table{
+    background-color: white;
+    text-align: center;
+    border-collapse: collapse;
+    width: 500px;
+    display: inline-block;/*para alinear la tabla al centro y se combina con display:table-cell del contenedor */
+}
+
+td{
+    border : solid 3px black;
+    padding: 3px;
+}
+
+p{ 
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+span{
+    color:red;
+    font-size: 15px;
+    text-align: center;
+}
+
+.galeria_imagen{
+    width: 250px;
+    height: 190px;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+}
+
+.boton_ingresar {
+    text-decoration: none;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(227, 47, 35);
+    font-weight: 200;
+    font-size: 15px;
+    color:white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.boton_ingresar:hover {
+    height: 30px;
+    width: 100px;
+    background-color: rgba(196, 140, 36, 5);
+    font-size: 15px;
+    color:white;
+} 
+
+.boton_comprar {
+    text-decoration: none;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(227, 47, 35);
+    font-weight: 200;
+    font-size: 15px;
+    color:white;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.boton_comprar:hover {
+    height: 30px;
+    width: 100px;
+    background-color: rgba(196, 140, 36, 5);
+    font-size: 15px;
+    color:white;
+} 
+
+.seleccion {
+    font-size:15px;
+    color:  rgb(227, 47, 35);
+    text-align: center;
+    font-family: Arial;
+}
+
+.pago{
+    padding-left: 10px;
+    height: 150px;
+    width: 250px;
+    margin: 15px auto;
+    display: inline-block;
+    font-size: 10px;
+    text-align: left; 
+}
+
+/*.click-buy{
+    border-radius:15;
+}*/
