@@ -31,14 +31,14 @@ Estamos brindando a los usuarios la oportunidad de acceder a este tipo de experi
 
 ### Prototipo (sketch)
 
-<p align="center"> <img src= "Imagenes/sketch_Artlue.png" width="350"> </p>
+<p align="center"> <img src= "../Imagenes/sketch_Artlue.png" width="350"> </p>
 
 
 ### Prototipo (Figma)
 
-<p align="center"> <img src= "Imagenes/Prototipo-validación-tarjeta-crédito_01.png" width="350"> </p> 
+<p align="center"> <img src= "../Imagenes/Prototipo-validación-tarjeta-crédito_01.png" width="350"> </p> 
 <br>
-<p align="center"> <img src= "Imagenes/Prototipo-validación-tarjeta-crédito_02.png" width="350"> </p>
+<p align="center"> <img src= "../Imagenes/Prototipo-validación-tarjeta-crédito_02.png" width="350"> </p>
 
 
 ## 3. Objetivos de aprendizaje
