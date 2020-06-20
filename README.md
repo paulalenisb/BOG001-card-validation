@@ -12,7 +12,7 @@
 
 ## 1. Descripción del proyecto
 
-Nuestro proyecto está enfocado a todas las personas que les gusta el arte y quieren visitar cualquier museo del mundo. Aprovechando el tema de la pandemia, ofercemos en conjunto con los museos la posibilidad de visitarlos digitalmente. Comprando sus entradas con solo un click, podran visitar su museo favorito desde la comodidad de su casa.
+Nuestro proyecto está enfocado a todas las personas que les gusta el arte y quieren visitar cualquier museo del mundo. Aprovechando el tema de la pandemia, ofrecemos en conjunto con los museos la posibilidad de visitarlos digitalmente. Comprando sus entradas con solo un click, podran visitar su museo favorito desde la comodidad de su casa.
 
 
 ## 2. Investigación UX
@@ -32,6 +32,8 @@ Les estamos brindando la oportunidad de acceder a este tipo de experiencia, sin 
 ### Prototipo (sketch)
 
 <p align="center"> <img src= "https://github.com/paulalenisb/BOG001-card-validation/blob/master/src/Imagenes/sketch_Artlue.png" width="350"> </p>
+
+Este prototipo de sketch fue planteado teniendo en cuenta la experiencia del usuario al que queriamos dirigir el proyecto, sin embargo se realizaron ajustes del mismo en el prototipo Figma que se adecuaban mas a los requerimientos.
 
 
 ### Prototipo (Figma)
