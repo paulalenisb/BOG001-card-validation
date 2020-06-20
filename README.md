@@ -12,22 +12,22 @@
 
 ## 1. Descripción del proyecto
 
-Nuestro proyecto está enfocado en las personas que les gusta el arte y quieren visitar cualquier museo del mundo. Aprovechando el tema de la pandemia, los museos han abierto la posibilidad de visitarlos digitalmente. Compra tus entradas y visita tu museo favorito desde la comodidad de tu casa.
+Nuestro proyecto está enfocado a todas las personas que les gusta el arte y quieren visitar cualquier museo del mundo. Aprovechando el tema de la pandemia, ofercemos en conjunto con los museos la posibilidad de visitarlos digitalmente. Comprando sus entradas con solo un click, podran visitar su museo favorito desde la comodidad de su casa.
 
 
 ## 2. Investigación UX
 
 ### ¿Quiénes son los principales usuarios de producto?
 
-Nuestros usuarios, personas de cualquier edad, amantes del arte que por la pandemia perdieron la posibilidad de visitar sus museos favoritos, ahora con la posibilidad de llevar todo a la pantalla, podrán visitar cualquier museo del mundo desde cualquier lugar. Explicar quiénes son los usuarios y los objetivos en relación con el producto.
+Nuestros usuarios personas de cualquier edad, que quieran aprender, que les interece vivir una experiencia cultural, amantes del arte, que por la pandemia perdieron la posibilidad de visitar sus museos favoritos, ahora con la posibilidad de llevar todo a la pantalla, podrán visitar cualquier museo del mundo desde cualquier lugar. 
 
 ### ¿Cuáles son los objetivos de estos usuarios en relación con tu producto?
 
-Nuestros usuarios podrán acceder por medio de nuestra aplicación a diferentes lugares de entretenimiento de manera virtual, que les brindaran experiencias culturales, de diversión y de aprendizaje.
+Los usuarios podrán acceder por medio de nuestra aplicación a diferentes lugares de entretenimiento de manera virtual, que les brindaran experiencias culturales, de diversión y de aprendizaje.
 
 ### ¿Cómo crees que el producto que estás creando está resolviendo sus problemas?
 
-Estamos brindando a los usuarios la oportunidad de acceder a este tipo de experiencia sin tener que desplazarse fisicamente a un espacio y disfrutarlo desde la comodidad de su casa o desde cualquier lugar y hora que deseen.
+Les estamos brindando la oportunidad de acceder a este tipo de experiencia, sin tener que desplazarse fisicamente a un espacio y disfrutarlo desde la comodidad de su casa o desde cualquier lugar y hora que deseen.
 
 ### Prototipo (sketch)
 
@@ -54,7 +54,7 @@ Hemos entendido y aplicado estos objetivos de aprendizaje en nuestro proyecto:
 ### HTML y CSS
 
 * [x] Uso correcto de HTML semántico
-* [ ] Uso de selectores de CSS
+* [x] Uso de selectores de CSS
 * [x] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ### DOM
