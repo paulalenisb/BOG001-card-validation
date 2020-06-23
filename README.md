@@ -12,26 +12,30 @@
 
 ## 1. Descripción del proyecto
 
-Nuestro proyecto está enfocado en las personas que les gusta el arte y quieren visitar cualquier museo del mundo. Aprovechando el tema de la pandemia, los museos han abierto la posibilidad de visitarlos digitalmente. Compra tus entradas y visita tu museo favorito desde la comodidad de tu casa.
+Nuestro proyecto se denomina ARTLUE (Arte y Valor), como su nombre lo indica la intención del mismo es fomentar el valor del arte y los lugares que lo resguardan, por esta razón nos enfocamos a todas las personas en general, los amantes del arte, los que por curiosidad quieren una experiencia cultural o simplemente porque quieren adquirir o reforzar algún conocimiento, podrán visitar entonces las diferentes exposiciones en cualquier museo del mundo. 
+Aprovechando el tema de la pandemia, ofrecemos en conjunto con los museos la posibilidad de visitarlos digitalmente. Comprando sus entradas con solo un clic, podrán ir a su museo favorito desde la comodidad de su casa.
+
 
 
 ## 2. Investigación UX
 
 ### ¿Quiénes son los principales usuarios de producto?
 
-Nuestros usuarios, personas de cualquier edad, amantes del arte que por la pandemia perdieron la posibilidad de visitar sus museos favoritos, ahora con la posibilidad de llevar todo a la pantalla, podrán visitar cualquier museo del mundo desde cualquier lugar. Explicar quiénes son los usuarios y los objetivos en relación con el producto.
+Nuestros usuarios personas de cualquier edad, que quieran aprender, que les interece vivir una experiencia cultural, amantes del arte, que por la pandemia perdieron la posibilidad de visitar sus museos favoritos, ahora con la posibilidad de llevar todo a la pantalla, podrán visitar cualquier museo del mundo desde cualquier lugar. 
 
 ### ¿Cuáles son los objetivos de estos usuarios en relación con tu producto?
 
-Nuestros usuarios podrán acceder por medio de nuestra aplicación a diferentes lugares de entretenimiento de manera virtual, que les brindaran experiencias culturales, de diversión y de aprendizaje.
+Los usuarios podrán acceder por medio de nuestra aplicación a diferentes lugares de entretenimiento de manera virtual, que les brindaran experiencias culturales, de diversión y de aprendizaje.
 
 ### ¿Cómo crees que el producto que estás creando está resolviendo sus problemas?
 
-Estamos brindando a los usuarios la oportunidad de acceder a este tipo de experiencia sin tener que desplazarse fisicamente a un espacio y disfrutarlo desde la comodidad de su casa o desde cualquier lugar y hora que deseen.
+Les estamos brindando la oportunidad de acceder a este tipo de experiencia, sin tener que desplazarse fisicamente a un espacio y disfrutarlo desde la comodidad de su casa o desde cualquier lugar y hora que deseen.
 
 ### Prototipo (sketch)
 
 <p align="center"> <img src= "https://github.com/paulalenisb/BOG001-card-validation/blob/master/src/Imagenes/sketch_Artlue.png" width="350"> </p>
+
+Este prototipo de sketch fue planteado teniendo en cuenta la experiencia del tipo de usuario al que queriamos dirigir el proyecto, sin embargo se realizaron ajustes del mismo en el prototipo Figma, los cuales que se adecuaban mas a la funcionalidad del proyecto.
 
 
 ### Prototipo (Figma)
@@ -54,7 +58,7 @@ Hemos entendido y aplicado estos objetivos de aprendizaje en nuestro proyecto:
 ### HTML y CSS
 
 * [x] Uso correcto de HTML semántico
-* [ ] Uso de selectores de CSS
+* [x] Uso de selectores de CSS
 * [x] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ### DOM
